@@ -1,17 +1,20 @@
 site_name: Samir Romdhani - Full Stack Developer | Open Source Enthusiast
 site_author: Samir Romdhani
 site_url: "https://romdhanisam.github.io/portfolio/"
-repo_url: "https://github.com/romdhanisam/portfolio/"
-repo_name: "romdhanisam/portfolio"
-docs_dir: docs 
+#repo_url: "https://github.com/romdhanisam/portfolio/"
+#repo_name: "romdhanisam/portfolio"
+docs_dir: docs
 site_dir: public
 
 nav:
-  - Home: index.md
-  - Projects: projects.md
-  - Contributions: contributions.md
+  - About: index.md
+  - Work experience: experiences.md
+  - Education: education.md
   - Certifications: certifications.md
-  - Articles: articles.md
+  - Contributions: contributions.md
+  - Skills: skills.md
+  - Projects: projects.md
+#  - Articles: articles.md
 
 theme:
   name: material
@@ -22,8 +25,36 @@ theme:
     - navigation.tabs
     - navigation.footer
 
+plugins:
+  - neoteroi.mkdocsoad:
+      use_pymdownx: true
+  - include-markdown
+  - search
+markdown_extensions:
+  - admonition
+  - def_list
+  - attr_list
+  - footnotes
+  - neoteroi.timeline
+  - neoteroi.cards
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - md_in_html
+  - tables
+  - pymdownx.highlight:
+      anchor_linenums: true
+      linenums: true
+      linenums_style: pymdownx.inline
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
 extra_css:
-  - assets/stylesheets/extra.css
-
+  - assets/css/extra.css
+  - assets/css/neoteroi-mkdocs.css
 extra_javascript:
-  - assets/javascripts/extra.js
+  - assets/js/extra.js

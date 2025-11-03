@@ -1,17 +1,14 @@
-# Welcome to MkDocs
+[//]: # (![]&#40;https://ziadoua.github.io/m3-Markdown-Badges/badges/MyPortfolio/myportfolio1.svg&#41;)
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+<figure markdown>
+  ![](./assets/images/me2.jpeg){ width="20%" }
+</figure>
 
-## Commands
+### **Samir Romdhani**, Full Stack Developer | Open Source Enthusiast
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+With experience in software development, graduated from National School of Computer Science, based in Paris.<br>
+I'm passionate about technology, my experience extends to technical architecture and product development. Find out more about my experience and publications in my portfolio.
 
-## Project layout
+My major focus is on JAVA, Angular, full-stack development and I still keep an eye out for the DevOps and GitOps approachs, docker platform, Kubernetes and tools that manage any cloud, infrastructure, or service mainly Terraform.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+In my spare time, I like to write, on Open Source projects such as kubernetes, as well as work on all sorts of experimental development projects.
