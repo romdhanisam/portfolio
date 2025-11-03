@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+
+{% block content %}
+    <div class="col-md-12" role="main">{% include "content.html" %}</div>
+{% endblock %}
+
+{% block next_prev %}
+{% endblock %}
+
+{% block footer %}
+    <hr>
+    <a href="https://www.loria.fr/" target="_blank"><img src="{{ base_url }}/img/logos/logo_loria.png" class="img-responsive" alt="Logo du Loria" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;    
+    <a href="https://www.cnrs.fr/" target="_blank"><img src="{{ base_url }}/img/logos/logo_cnrs.png" class="img-responsive" alt="Logo du CNRS" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.inria.fr/" target="_blank"><img src="{{ base_url }}/img/logos/logo_inria.png" class="img-responsive" alt="Logo Inria" /></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.univ-lorraine.fr/" target="_blank"><img src="{{ base_url }}/img/logos/logo_ul.png" class="img-responsive" alt="Logo Université de Lorraine" /></a>
+    <hr>
+    {% if config.copyright %}
+        <p>{{ config.copyright }}</p>
+    {% endif %}
+    <p>Pages générées avec <a href="https://www.mkdocs.org/">MkDocs</a>.</p>
+{% endblock %}

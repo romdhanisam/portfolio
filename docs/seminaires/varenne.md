@@ -1,0 +1,13 @@
+## 22 octobre 2012 : Séminaire «Epistémologie de l'informatique et applications» de Franck Varenne
+
+<br/>
+L'option d'informatique et sciences du numérique ouvre cette année au bacalauréat. A l'opposé du B2I et C2I, l'objectif est de transmettre les bases de notre science. Après l'introduction de l'algorithmique dans les programmes de mathématiques au lycée, c'est un nouveau pas vers l'enseignement de l'informatique à tous.
+
+Cette démocratisation impose de faire évoluer l'enseignement de l'informatique : les formations visant les futurs spécialistes en place dans le supérieur ne sont pas adaptées à la formation de tous les citoyens de demain. Il faut revoir le contenu de nos enseignements, et peut-être également nos pratiques pédagogiques. Cela passe nécessairement par une (re)définition des fondements de notre science et ce qu'il est important de transmettre dans ce nouveau cadre.
+
+Pour nourrir cette réflexion, le groupe IDEES du Loria a le plaisir d'accueillir Franck Varenne le lundi 22 octobre en salle du conseil. Ce séminaire, ouvert à tous, sera suivi d'une très courte présentation des avancées des différents groupes de travail de IDEES. Nous partagerons également les dernières nouvelles afférantes, et discuterons de ces problématiques entre personnes intéressées.
+
+!!! tip "Résumé de l'exposé" 
+	Aujourd'hui, le computer est au coeur des techniques de conception comme de représentation et de formalisation dans les sciences et dans les techniques contemporaines. L'informatique passe à la fois pour une discipline-fondement et une discipline-carrefour. Il est donc important de réfléchir de temps à autre à sa nature et à ses potentialités, au moins théoriques. Dans cette perspective, cette conférence tentera d'abord d’ébaucher une caractérisation de ce qu'est l'informatique dans sa forme la plus générale pour en venir ensuite aux applications que permet une telle caractérisation. Nous montrerons en particulier que cette caractérisation présente l’avantage de permettre de distinguer entre différents types de simulation : notamment entre émulation et simulation, puis entre simulation numérique et simulation informatique. En suite de quoi, certaines questions de principe sur la simulabilité du vivant, de l’esprit, du cerveau, etc., pourront alors non pas être résolues, bien entendu, mais au moins posées avec plus de clarté et de discernement. Le rapport entre langage humain et informatique pourra également être partiellement éclairci.
+
+Franck Varenne, ingénieur de l’Ecole Supérieure d’Electricité, certifié de philosophie, docteur en Histoire des Sciences, est actuellement Maître de Conférences en philosophie de la connaissance à l’Université de Rouen. 
