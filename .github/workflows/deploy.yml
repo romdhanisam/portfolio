@@ -1,16 +1,16 @@
-name: Deploy Portfolio - Jekyll with GitHub Pages dependencies preinstalled
+name: Deploy Portfolio
 
 on:
   push:
     branches:
-      - docs
+      - tests
   workflow_dispatch:
 permissions:
   contents: write
 jobs:
   mkdocs:
     runs-on: ubuntu-latest
-    if: github.ref == 'refs/heads/docs'
+    if: github.ref == 'refs/heads/tests'
     steps:
       - uses: actions/checkout@v4
       - name: Configure Git Credentials

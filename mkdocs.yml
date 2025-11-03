@@ -4,52 +4,45 @@ site_url: "https://romdhanisam.github.io/portfolio/"
 #repo_url: "https://github.com/romdhanisam/portfolio/"
 #repo_name: "romdhanisam/portfolio"
 docs_dir: docs
-site_dir: public
-
-nav:
-  - Home: index.md
-  - Work experience: projects.md
-  - Contributions: contributions.md
-  - Certifications: certifications.md
-  - Articles: articles.md
-
+#site_dir: public
+#nav:
+#  - Accueil: 'index.md'
+#  - Membres:
+#      - 'Enseignant.e.s du secondaire' : membres/membres-sec.md
+#      - 'Enseignant.e.s du supérieur' : membres/membres-sup.md
+#      - 'Soutiens' : membres/soutiens.md
+#  - Journées :
+#      - 'Journée NSI 2025' : journees/2025.md
+#      - 'Journée NSI 2024' : journees/2024.md
+#      - 'Journée NSI 2023' : journees/2023.md
+#      - 'Journée NSI 2022' : journees/2022.md
+#      - 'Journée NSI 2020' : journees/2020.md
+#      - 'Journée ISN 2019' : journees/2019.md
+#      - 'Journée ISN 2018' : journees/2018.md
+#      - 'Journée ISN 2017' : journees/2017.md
+#      - 'Journée ISN 2016' : journees/2016.md
+#      - 'Journée ISN 2015' : journees/2015.md
+#      - 'Journée ISN 2014' : journees/2014.md
+#      - 'Journée ISN 2013' : journees/2013.md
+#      - 'Journées SIF et ISN 2013' : journees/sif2013.md
+#  - Ressources :
+#      - 'Didapro 7 - Didastic' : "http://didapro.org/7/"
+#      - 'Didapro 8 - Didastic' : "https://www.didapro.org/8/"
+#      - 'Didapro 9 - Didastic' : "https://www.didapro.org/9/"
+#      - 'Didapro 10 - Didastic' : "https://www.didapro.org/10/"
+#      - 'Scratch' : scratch.md
 theme:
   name: material
-  favicon: https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/materialformkdocs.svg
-  custom_dir: docs/overrides
-  features:
-    - toc.integrate
-    - navigation.tabs
-    - navigation.footer
+  custom_dir: custom_theme
+plugins:
+  - search:
+      lang: fr
+extra_css:
+  - css/extra.css
+  - css/neoteroi-mkdocs.css
 markdown_extensions:
   - admonition
-  - def_list
-  - attr_list
-  - footnotes
+  - neoteroi.cards
   - neoteroi.timeline
-  - pymdownx.highlight:
-      anchor_linenums: true
-      linenums: true
-      linenums_style: pymdownx.inline
-  - pymdownx.inlinehilite
-  - pymdownx.snippets
-  - pymdownx.superfences
-  - md_in_html
-extra_css:
-  - assets/stylesheets/extra.css
-  - assets/stylesheets/neoteroi-mkdocs.css
+  - neoteroi.spantable
 
-extra_javascript:
-  - 'assets/javascripts/extra.js'
-
-#extra:
-#  social:
-#    - icon: material/linkedin
-#      link: https://www.linkedin.com/in/chikeegonu/
-#      name: My LinkedIn Profile
-#    - icon: octicons/person-fill-24
-#      link: https://mrchike.github.io/chikeegonu/
-#      name: My Projects Portfolio️
-#    - icon: fontawesome/brands/github
-#      link: https://github.com/MrChike
-#      name: My Github Profile

@@ -1,0 +1,12 @@
+.admonition.danger > .admonition-title {
+    background: #EB6864;
+    color: #fff;
+}
+
+.admonition.danger {
+    border-color: #EB6864;
+}
+
+.admonition.tip {
+    border-color: #EB6864;
+}
