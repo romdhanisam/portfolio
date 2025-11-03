@@ -1,0 +1,29 @@
+site_name: Samir Romdhani - Full Stack Developer | Open Source Enthusiast
+site_author: Samir Romdhani
+site_url: "https://romdhanisam.github.io/portfolio/"
+repo_url: "https://github.com/romdhanisam/portfolio/"
+repo_name: "romdhanisam/portfolio"
+docs_dir: docs 
+site_dir: public
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Contributions: contributions.md
+  - Certifications: certifications.md
+  - Articles: articles.md
+
+theme:
+  name: material
+  favicon: https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/materialformkdocs.svg
+  custom_dir: docs/overrides
+  features:
+    - toc.integrate
+    - navigation.tabs
+    - navigation.footer
+
+extra_css:
+  - assets/stylesheets/extra.css
+
+extra_javascript:
+  - assets/javascripts/extra.js
