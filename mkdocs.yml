@@ -18,6 +18,7 @@ nav:
 
 theme:
   name: material
+  locale: en
   favicon: https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/materialformkdocs.svg
   custom_dir: docs/overrides
   features:
@@ -30,6 +31,27 @@ plugins:
       use_pymdownx: true
   - include-markdown
   - search
+  - i18n:
+      docs_structure: suffix
+      default_language: en
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: fr
+          name: Français
+          build: true
+          site_name: "Samir Romdhani | Ingénieur d'études et développement"
+          nav_translations:
+            About: Profil
+            Work experience: Expériences
+            Education: Éducation
+            Contributions: Réalisations
+            Projects: Projets
+            Certifications: Certifications
+            Skills: Compétences
+
 markdown_extensions:
   - admonition
   - def_list
@@ -55,6 +77,7 @@ markdown_extensions:
       custom_checkbox: true
 extra_css:
   - assets/css/extra.css
+  - assets/css/neoteroi-cards.css
   - assets/css/neoteroi-mkdocs.css
 extra_javascript:
   - assets/js/extra.js

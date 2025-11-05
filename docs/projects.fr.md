@@ -1,6 +1,6 @@
 ::cards:: smaller cols=1
 
-- title: Implementing a real-time e-commerce order tracking platform
+- title: Suivi des commandes e-commerce en temps réel
   url: https://github.com/romdhanisam/OrderFlow
   content: |
     ![](https://img.shields.io/badge/Java 21-%23F5F6F7.svg?&logo=openjdk&logoColor=blue)
@@ -13,7 +13,7 @@
     ![](https://img.shields.io/badge/Cucumber-%23F5F6F7.svg?&logo=Cucumber&logoColor=orange)
     ![](https://img.shields.io/badge/Leaflet-%23F5F6F7.svg?&logo=Leaflet&logoColor=blue)
 
-- title: Implementing a sentiment analyzer for Orange Tunisia and using social media comments written in Tunisian Arabic
+- title: Mise en place d'un analyseur de sentiment pour l’opérateur de télécommunications tunisien  Orange Tunisie et utilisation de commentaires sur les réseaux sociaux comme Data Source
   url: https://github.com/romdhanisam/sentiment-analyzer
   content: |
     ![](https://img.shields.io/badge/Python-%23F5F6F7.svg?&logo=Python&logoColor=blue)
@@ -22,7 +22,7 @@
     ![](https://img.shields.io/badge/API Facebook-%23F5F6F7.svg?&logo=API&logoColor=red)
     ![](https://img.shields.io/badge/API Twitter-%23F5F6F7.svg?&logo=API&logoColor=blue)
 
-- title: Binary image classification ConfNet (convolutional neural network)
+- title: Classification d'images binaires - ConfNet (réseau de neurones convolutifs)
   url: https://github.com/romdhanisam/projetDeepLearning
   content: |
     ![](https://img.shields.io/badge/Python-%23F5F6F7.svg?&logo=Python&logoColor=blue)
@@ -30,7 +30,7 @@
     ![](https://img.shields.io/badge/API Keras-%23F5F6F7?logo=API&logoColor=blue)
     ![](https://img.shields.io/badge/TensorFlow-%23F5F6F7.svg?&logo=TensorFlow&logoColor=red)
 
-- title: Design and Development of a Human resources management application
+- title: Conception et développement d’une application Java EE de gestion des ressources humaines (GRH)
   url: https://github.com/romdhanisam/PCD-2017-Application-de-gestion-de-ressources-humaines
   content: |
     ![](https://img.shields.io/badge/JAVA 7-%23F5F6F7.svg?&logo=openjdk&logoColor=blue)
@@ -39,7 +39,7 @@
     ![](https://img.shields.io/badge/GlassFish-%23F5F6F7.svg?&logo=GlassFish&logoColor=red)
     ![](https://img.shields.io/badge/PrimeFaces-%23F5F6F7.svg?&logo=PrimeFaces&logoColor=red)
 
-- title: Development of an E-learning website using the WebRTC programming interface
+- title: Développement site web e-learning en utilisant l’interface de programmation WebRTC
   url: https://github.com/romdhanisam/WebRTC
   content: |
     ![](https://img.shields.io/badge/HTML5-%23F5F6F7.svg?&logo=HTML5&logoColor=blue)

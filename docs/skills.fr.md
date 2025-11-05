@@ -1,6 +1,6 @@
 [//]: # (<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="27"><i></i>)
 
-#### Object approach and software architectures
+#### Approche Objet et architectures logicielles
 
 ![](https://img.shields.io/badge/UML-%23F5F6F7.svg?&logo=UML&logoColor=blue)
 ![](https://img.shields.io/badge/Design%20Patterns-white)<br>
@@ -17,7 +17,7 @@
 
 ---
 
-#### Management and Software Quality
+#### Management et Qualité logicielle
 
 ![](https://img.shields.io/badge/Scrum%20Agile-%23F5F6F7.svg?&logo=Scrum&logoColor=blue)
 ![](https://img.shields.io/badge/Jira-%23F5F6F7.svg?&logo=Jira&logoColor=blue)
@@ -43,7 +43,7 @@
 
 ---
 
-#### Software frameworks / Stack Java & Microservices
+#### Frameworks logiciel / Stack Java & Microservices
 
 ![](https://img.shields.io/badge/Java SE / EE-%23F5F6F7.svg?&logo=openjdk&logoColor=blue)
 ![](https://img.shields.io/badge/Jakarta EE-%23F5F6F7.svg?&logo=Jakarta&logoColor=blue)

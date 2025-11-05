@@ -11,7 +11,7 @@
   icon: ./assets/images/logo/cncf5.png
   url: https://www.cncf.io/
   content: |
-    {% include "includes/contributions/cncf.html" %}
+    {% include "includes/contributions/cncf.fr.html" %}
 - title: LF-Energy
   icon: ./assets/images/logo/lfe.png
   url: https://lfenergy.org/
@@ -20,7 +20,7 @@
 
 ::/cards::
 
-### Events
+### Événements
 
 ::cards:: cols=4 smaller
 
@@ -33,12 +33,12 @@
 
 ::/cards::
 
-### Clubs
+### Associations
 
 ::cards:: cols=4 smaller
 
 - title: RCT - Running Club Tunis
-- title: CPS - Prevention and first-aid club
+- title: CPS - Club Prévention et Secourisme
 - title: OSSEC - Open Source Software ENSI Club
 - title: ENSI Microsoft Club
 
